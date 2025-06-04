@@ -8,11 +8,11 @@
 #define DHTTYPE DHT22    // Tipo de sensor
 
 // Config WiFi
-const char* ssid = "Miguel";
-const char* password = "Ruta2005*";
+const char* ssid = "Your SSID";
+const char* password = "Your Password";
 
 // Config MQTT
-const char* mqtt_server = "192.168.245.218";
+const char* mqtt_server = "Mqtt Broker IP address";
 const int mqtt_port = 1883;
 const char* mqtt_user = "";
 const char* mqtt_password = "";
