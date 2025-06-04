@@ -665,24 +665,5 @@
                 "file": "/data/node_modules/node-red-dashboard/nodes/ui_spacer.js"
             }
         }
-    },
-    "@studiobox/node-red-contrib-ui-widget-thermometer": {
-        "name": "@studiobox/node-red-contrib-ui-widget-thermometer",
-        "version": "0.7.7",
-        "local": true,
-        "user": true,
-        "nodes": {
-            "ui_widget_thermometer": {
-                "name": "ui_widget_thermometer",
-                "types": [
-                    "ui_widget_thermometer"
-                ],
-                "enabled": true,
-                "local": true,
-                "user": false,
-                "module": "@studiobox/node-red-contrib-ui-widget-thermometer",
-                "file": "/data/node_modules/@studiobox/node-red-contrib-ui-widget-thermometer/nodes/ui_widget_thermometer.js"
-            }
-        }
     }
 }
